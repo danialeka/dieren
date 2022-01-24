@@ -1,2 +1,4 @@
 hond
 kat
+mouse
+hamster
